@@ -1,119 +1,121 @@
-Nama,Gender,Tinggi (cm),Berat Badan (kg),Rata-rata Home Run,Persentase Memukul,Usia,Posisi
-John Smith,Laki-laki,185,85,12,0.320,27,Pemukul
-Michael Johnson,Laki-laki,178,80,10,0.310,29,Pemukul
-David Martinez,Laki-laki,190,90,15,0.340,26,Pemukul
-Chris Anderson,Laki-laki,182,88,11,0.325,28,Pemukul
-Kevin Brown,Laki-laki,175,75,8,0.300,30,Pemukul
-Sarah Lee,Perempuan,170,65,5,0.280,24,Pemukul
-Emma Garcia,Perempuan,168,63,6,0.290,23,Pemukul
-Daniel Taylor,Laki-laki,188,87,13,0.330,25,Pemukul
-Ryan Hernandez,Laki-laki,183,86,11,0.315,28,Pemukul
-Jessica Nguyen,Perempuan,172,68,7,0.295,26,Pemukul
-Alex Rodriguez,Laki-laki,195,95,18,0.350,31,Pemukul
-Amanda Johnson,Perempuan,175,70,9,0.305,27,Pemukul
-Justin Davis,Laki-laki,180,82,10,0.310,29,Pemukul
-Steven Garcia,Laki-laki,187,88,12,0.320,28,Pemukul
-Samantha Martinez,Perempuan,170,67,8,0.300,25,Pemukul
-Andrew Lee,Laki-laki,192,91,14,0.335,29,Pemukul
-Hannah Taylor,Perempuan,165,60,4,0.275,24,Pemukul
-Brian Wilson,Laki-laki,200,100,20,0.360,33,Pemukul
-Laura Evans,Perempuan,173,70,9,0.305,26,Pemukul
-Ethan Williams,Laki-laki,185,85,12,0.320,27,Penangkap
-Olivia Moore,Perempuan,178,80,10,0.310,29,First Baseman
-Mason Johnson,Laki-laki,190,90,15,0.340,26,Second Baseman
-Sophia Anderson,Perempuan,182,88,11,0.325,28,Third Baseman
-Logan Brown,Laki-laki,175,75,8,0.300,30,Shortstop
-Ava Lee,Perempuan,170,65,5,0.280,24,Left Fielder
-Noah Garcia,Laki-laki,168,63,6,0.290,23,Center Fielder
-Emily Taylor,Perempuan,188,87,13,0.330,25,Right Fielder
-Matthew Martinez,Laki-laki,183,86,11,0.315,28,Pitcher
-Lily Nguyen,Perempuan,172,68,7,0.295,26,Pitcher
-Lucas Rodriguez,Laki-laki,195,95,18,0.350,31,Pitcher
-Sophie Johnson,Perempuan,175,70,9,0.305,27,Pitcher
-Carter Davis,Laki-laki,180,82,10,0.310,29,Pitcher
-Ella Garcia,Perempuan,187,88,12,0.320,28,Pitcher
-Owen Wilson,Laki-laki,170,67,8,0.300,25,Pitcher
-Grace Martinez,Perempuan,192,91,14,0.335,29,Pitcher
-Jacob Lee,Laki-laki,165,60,4,0.275,24,Pitcher
-Harper Wilson,Perempuan,200,100,20,0.360,33,Pitcher
-Luna Evans,Perempuan,173,70,9,0.305,26,Pitcher
-Liam Smith,Laki-laki,182,85,10,0.310,25,Second Baseman
-Emma Johnson,Perempuan,170,60,7,0.290,27,Third Baseman
-Alexander Martinez,Laki-laki,195,95,15,0.345,30,Left Fielder
-Olivia Brown,Perempuan,168,65,8,0.300,26,Center Fielder
-William Garcia,Laki-laki,190,88,12,0.320,28,Right Fielder
-Sophia Davis,Perempuan,175,70,9,0.305,29,Shortstop
-Michael Lee,Laki-laki,180,82,11,0.315,31,Penangkap
-Isabella Nguyen,Perempuan,172,68,6,0.280,24,First Baseman
-James Rodriguez,Laki-laki,188,90,13,0.330,26,Pitcher
-Charlotte Martinez,Perempuan,165,62,5,0.275,23,Pitcher
-Noah Taylor,Laki-laki,185,86,14,0.335,29,Pitcher
-Amelia Hernandez,Perempuan,170,65,7,0.295,25,Pitcher
-Ethan Thompson,Laki-laki,192,92,16,0.340,28,Pitcher
-Ava Nguyen,Perempuan,168,64,8,0.310,26,Pitcher
-Mason Taylor,Laki-laki,178,85,12,0.325,30,Pitcher
-Harper Rodriguez,Perempuan,173,68,6,0.290,24,Pitcher
-Ella Lee,Perempuan,175,70,9,0.305,27,Pitcher
-William Wilson,Laki-laki,190,90,15,0.340,31,Pitcher
-Scarlett Garcia,Perempuan,170,66,7,0.300,25,Pitcher
-Lucas Nguyen,Laki-laki,185,88,13,0.330,29,Pitcher
-Jackson Wilson,Laki-laki,188,85,11,0.315,27,First Baseman
-Avery Taylor,Perempuan,170,63,6,0.295,25,Second Baseman
-Elijah Martinez,Laki-laki,195,92,14,0.330,29,Third Baseman
-Madison Garcia,Perempuan,175,68,8,0.305,28,Shortstop
-Benjamin Nguyen,Laki-laki,182,88,12,0.320,30,Left Fielder
-Harper Smith,Perempuan,168,65,7,0.300,26,Center Fielder
-Carter Davis,Laki-laki,190,90,13,0.335,31,Right Fielder
-Charlotte Lee,Perempuan,172,67,9,0.310,27,Penangkap
-Liam Martinez,Laki-laki,185,87,11,0.315,28,Pitcher
-Grace Nguyen,Perempuan,168,64,7,0.295,26,Pitcher
-Logan Taylor,Laki-laki,187,89,12,0.320,29,Pitcher
-Chloe Hernandez,Perempuan,170,66,6,0.280,24,Pitcher
-Ethan Johnson,Laki-laki,192,91,15,0.340,30,Pitcher
-Zoe Garcia,Perempuan,173,69,8,0.305,28,Pitcher
-Samuel Wilson,Laki-laki,180,83,10,0.310,29,Pitcher
-Mia Martinez,Perempuan,175,70,9,0.320,27,Pitcher
-Nathan Lee,Laki-laki,188,88,13,0.325,30,Pitcher
-Sophie Nguyen,Perempuan,170,65,7,0.300,25,Pitcher
-Daniel Brown,Laki-laki,185,86,12,0.320,29,Pitcher
-Emma Rodriguez,Perempuan,172,68,8,0.310,26,Pitcher
-Oliver Garcia,Laki-laki,183,86,11,0.315,28,First Baseman
-Abigail Martinez,Perempuan,170,64,7,0.305,26,Second Baseman
-Lucas Johnson,Laki-laki,188,90,14,0.330,29,Third Baseman
-Emily Brown,Perempuan,173,67,8,0.300,27,Shortstop
-William Nguyen,Laki-laki,182,88,12,0.320,30,Left Fielder
-Sophia Hernandez,Perempuan,168,65,6,0.290,25,Center Fielder
-Daniel Smith,Laki-laki,190,92,15,0.335,31,Right Fielder
-Chloe Taylor,Perempuan,172,68,9,0.310,28,Penangkap
-Jacob Garcia,Laki-laki,185,87,10,0.310,29,Pitcher
-Ella Martinez,Perempuan,170,66,7,0.300,26,Pitcher
-Matthew Johnson,Laki-laki,187,89,11,0.320,30,Pitcher
-Ava Lee,Perempuan,175,70,8,0.305,27,Pitcher
-Liam Rodriguez,Laki-laki,188,91,12,0.325,31,Pitcher
-Madison Nguyen,Perempuan,173,69,6,0.285,24,Pitcher
-Logan Smith,Laki-laki,180,85,10,0.310,28,Pitcher
-Sophie Martinez,Perempuan,172,67,8,0.305,27,Pitcher
-Ethan Brown,Laki-laki,185,88,11,0.315,29,Pitcher
-Olivia Johnson,Perempuan,170,65,7,0.300,26,Pitcher
-Jackson Garcia,Laki-laki,190,90,13,0.330,30,Pitcher
-Isabella Smith,Perempuan,168,64,8,0.310,27,Pitcher
-Ethan Rodriguez,Laki-laki,185,87,12,0.320,28,First Baseman
-Isabella Lee,Perempuan,170,65,8,0.305,26,Second Baseman
-Liam Nguyen,Laki-laki,188,91,14,0.330,29,Third Baseman
-Sophia Smith,Perempuan,173,68,7,0.300,27,Shortstop
-Mason Martinez,Laki-laki,182,88,11,0.315,30,Left Fielder
-Olivia Davis,Perempuan,168,64,6,0.290,25,Center Fielder
-Daniel Hernandez,Laki-laki,190,92,15,0.335,31,Right Fielder
-Ava Johnson,Perempuan,172,67,9,0.310,28,Penangkap
-Noah Taylor,Laki-laki,187,89,10,0.310,29,Pitcher
-Emily Martinez,Perempuan,170,66,8,0.305,26,Pitcher
-Jacob Brown,Laki-laki,185,88,12,0.320,30,Pitcher
-Sophie Nguyen,Perempuan,173,69,7,0.300,27,Pitcher
-Ethan Wilson,Laki-laki,180,85,11,0.315,28,Pitcher
-Chloe Garcia,Perempuan,172,68,6,0.295,24,Pitcher
-Liam Hernandez,Laki-laki,178,83,10,0.310,27,Pitcher
-Emma Lee,Perempuan,175,70,8,0.305,26,Pitcher
-Jackson Rodriguez,Laki-laki,188,90,13,0.330,30,Pitcher
-Isabella Smith,Perempuan,168,65,7,0.300,27,Pitcher
-Lucas Nguyen,Laki-laki,190,91,12,0.325,31,Pitcher
-Sophia Brown,Perempuan,170,66,8,0.310,28,Pitcher
+Name,Gender,Height (cm),Weight (kg),Home Run,Hitting Accuracy (%),Age,Position
+John Doe,Male,185,85,25,32.0,28,Outfielder
+Jane Smith,Female,170,65,15,30.0,24,Shortstop
+Mike Johnson,Male,190,90,30,31.0,30,First Baseman
+Emily Davis,Female,165,60,10,29.0,22,Second Baseman
+Alex Rodriguez,Male,195,95,35,33.0,36,Third Baseman
+Sarah Thompson,Female,172,68,20,30.5,26,Outfielder
+David Martinez,Male,180,80,28,31.5,29,Catcher
+Amanda Lee,Female,168,62,12,29.5,23,Shortstop
+Chris Williams,Male,188,88,32,32.5,32,First Baseman
+Jessica Brown,Female,175,70,18,31.0,27,Second Baseman
+Matt Turner,Male,183,83,26,32.0,31,Third Baseman
+Lauren Taylor,Female,169,64,14,29.0,25,Outfielder
+Ryan Clark,Male,192,92,33,33.0,33,Catcher
+Nicole Garcia,Female,171,66,16,30.0,24,Shortstop
+Justin Evans,Male,187,87,31,32.5,32,First Baseman
+Rachel White,Female,173,69,19,30.5,26,Second Baseman
+Tyler Harris,Male,191,91,34,33.0,33,Third Baseman
+Hannah Moore,Female,167,63,13,29.5,22,Outfielder
+Brandon Rivera,Male,189,89,29,31.5,29,Catcher
+Emma Wilson,Female,174,67,17,31.0,27,Shortstop
+Daniel Johnson,Male,184,86,26,32.2,29,Outfielder
+Samantha Brown,Female,172,67,18,30.8,25,Shortstop
+Michael Taylor,Male,188,88,31,32.5,31,First Baseman
+Sophia Rodriguez,Female,169,65,15,29.3,23,Second Baseman
+Joshua Martinez,Male,191,92,34,32.7,32,Third Baseman
+Olivia Hernandez,Female,167,62,12,29.7,24,Outfielder
+Christopher Lee,Male,186,85,28,32.0,30,Catcher
+Emma Anderson,Female,175,68,16,29.5,26,Shortstop
+David Brown,Male,190,90,30,31.8,29,First Baseman
+Rachel Garcia,Female,171,66,14,29.2,23,Second Baseman
+Brandon Miller,Male,187,87,29,31.5,28,Third Baseman
+Jessica Taylor,Female,170,64,13,29.0,25,Outfielder
+Justin Rodriguez,Male,189,89,32,32.3,31,Catcher
+Megan Smith,Female,168,63,11,29.5,24,Shortstop
+Ryan Evans,Male,193,93,35,32.8,33,First Baseman
+Hannah Nguyen,Female,173,67,17,29.8,26,Second Baseman
+Matthew Wilson,Male,192,91,33,32.6,32,Third Baseman
+Ava Thompson,Female,166,61,12,29.4,24,Outfielder
+Tyler Martin,Male,185,87,28,31.9,30,Catcher
+Emily Garcia,Female,174,66,15,29.7,25,Shortstop
+Adam Johnson,Male,185,85,25,32.0,28,Batter
+Sophia Martinez,Female,170,65,15,30.0,24,Batter
+Michael Taylor,Male,190,90,30,31.0,30,Catcher
+Emily Davis,Female,165,60,10,29.0,22,Batter
+Alex Rodriguez,Male,195,95,35,33.0,36,Batter
+Sarah Thompson,Female,172,68,20,30.5,26,Catcher
+David Martinez,Male,180,80,28,31.5,29,Catcher
+Amanda Lee,Female,168,62,12,29.5,23,Batter
+Chris Williams,Male,188,88,32,32.5,32,Catcher
+Jessica Brown,Female,175,70,18,31.0,27,Batter
+Matt Turner,Male,183,83,26,32.0,31,Batter
+Lauren Taylor,Female,169,64,14,29.0,25,Catcher
+Ryan Clark,Male,192,92,33,33.0,33,Catcher
+Nicole Garcia,Female,171,66,16,30.0,24,Batter
+Justin Evans,Male,187,87,31,32.5,32,Batter
+Rachel White,Female,173,69,19,30.5,26,Batter
+Tyler Harris,Male,191,91,34,33.0,33,Batter
+Hannah Moore,Female,167,63,13,29.5,22,Batter
+Brandon Rivera,Male,189,89,29,31.5,29,Catcher
+Emma Wilson,Female,174,67,17,31.0,27,Batter
+Adi Nugroho,Male,180,85,20,30.5,27,Outfielder
+Siti Rahayu,Female,165,60,10,28.0,23,Shortstop
+Budi Setiawan,Male,175,70,15,31.0,28,First Baseman
+Dewi Kusuma,Female,160,55,5,27.5,22,Second Baseman
+Eko Santoso,Male,185,90,25,32.0,30,Third Baseman
+Rini Wati,Female,168,65,12,29.0,25,Outfielder
+Joko Hermawan,Male,178,80,18,30.8,29,Catcher
+Tri Utami,Female,163,62,8,28.5,24,Shortstop
+Surya Pratama,Male,182,88,22,31.5,31,First Baseman
+Ani Suparno,Female,170,68,14,29.5,26,Second Baseman
+Rudi Saputra,Male,187,92,26,32.5,32,Third Baseman
+Lina Fitriani,Female,166,63,11,28.8,24,Outfielder
+Adi Wahyudi,Male,179,85,21,31.2,28,Catcher
+Yuni Hartati,Female,167,66,13,29.2,25,Shortstop
+Rizki Prasetyo,Male,181,87,20,30.7,29,First Baseman
+Dina Wulandari,Female,169,64,12,29.0,26,Second Baseman
+Farhan Saputra,Male,186,91,24,31.8,31,Third Baseman
+Lusi Marwati,Female,164,62,9,28.3,23,Outfielder
+Agung Setiawan,Male,183,89,23,31.0,30,Catcher
+Anita Dewi,Female,172,67,13,29.0,27,Shortstop
+Li Wei,Male,182,84,28,33.0,29,Outfielder
+Zhang Jing,Female,170,65,18,31.5,27,Shortstop
+Wang Peng,Male,188,88,32,34.5,31,First Baseman
+Liu Mei,Female,165,60,12,29.0,24,Second Baseman
+Chen Jun,Male,190,92,35,35.0,32,Third Baseman
+Li Na,Female,172,68,20,32.5,28,Outfielder
+Zhou Xin,Male,180,85,30,33.5,30,Catcher
+Yang Yan,Female,168,64,15,30.0,25,Shortstop
+Hu Lei,Male,185,90,29,32.8,29,First Baseman
+Xu Ying,Female,167,63,14,30.5,26,Second Baseman
+Sun Wei,Male,192,95,34,34.0,33,Third Baseman
+Zhao Min,Female,170,66,19,32.0,27,Outfielder
+Liang Qiang,Male,178,82,27,33.2,28,Catcher
+Cheng Ling,Female,166,62,13,30.2,25,Shortstop
+Wu Peng,Male,186,89,31,33.7,30,First Baseman
+Lin Xiao,Female,169,67,16,31.0,26,Second Baseman
+Chang Feng,Male,191,93,33,34.2,31,Third Baseman
+Wang Hong,Female,168,65,17,31.5,27,Outfielder
+Deng Wei,Male,183,88,30,33.0,30,Catcher
+Yuan Fang,Female,171,66,18,31.7,26,Shortstop
+Sato Takashi,Male,175,80,23,31.0,28,Outfielder
+Tanaka Yuki,Female,162,55,12,29.5,24,Shortstop
+Suzuki Hiroshi,Male,180,85,28,32.0,30,First Baseman
+Yamamoto Aoi,Female,158,50,8,28.0,22,Second Baseman
+Watanabe Haruto,Male,185,90,32,33.0,31,Third Baseman
+Ito Nana,Female,167,65,15,30.5,26,Outfielder
+Kobayashi Riku,Male,178,82,26,31.5,29,Catcher
+Saito Mei,Female,164,60,10,29.0,23,Shortstop
+Nakamura Kota,Male,182,88,30,32.5,30,First Baseman
+Matsuki Sora,Female,170,68,17,31.0,27,Second Baseman
+Kato Yuto,Male,188,92,34,33.5,32,Third Baseman
+Aoki Hina,Female,166,63,14,30.2,25,Outfielder
+Yoshida Ren,Male,180,87,29,32.2,30,Catcher
+Takahashi Yui,Female,168,65,16,30.8,26,Shortstop
+Shimizu Takumi,Male,183,89,31,32.7,31,First Baseman
+Okada Ayaka,Female,172,67,18,31.5,27,Second Baseman
+Nishimura Haruka,Male,187,91,33,33.2,31,Third Baseman
+Ogawa Sakura,Female,166,64,13,30.0,25,Outfielder
+Hayashi Kenji,Male,184,88,30,32.5,30,Catcher
+Inoue Misaki,Female,169,66,16,30.5,26,Shortstop
